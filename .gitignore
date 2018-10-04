@@ -1,0 +1,12 @@
+.classpath
+*.bin
+*.class
+*.lock
+*.properties
+*.jar
+*.MF
+build/
+.gradle/
+.project
+.settings/
+
