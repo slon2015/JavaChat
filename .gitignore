@@ -9,4 +9,9 @@ build/
 .gradle/
 .project
 .settings/
+.idea/
+.vertx/
 
+/Chat.iml
+/Chat.ipr
+/Chat.iws
